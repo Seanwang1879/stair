@@ -3,6 +3,7 @@
 
 int count = 0;
 
+int stair(int nums, int sub_nums);
 void main()
 {
 	stair(100,1);
